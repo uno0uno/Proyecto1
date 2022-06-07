@@ -7,6 +7,14 @@ body
     margin:0;
     padding:0
 }
+#cabecera #tagline
+{
+    background-color: blue;
+    padding:0 0 0 1em;
+    font-weight:normal;
+    400;font-size:.8em;
+}
+
 #container
 {
     width:70%;
